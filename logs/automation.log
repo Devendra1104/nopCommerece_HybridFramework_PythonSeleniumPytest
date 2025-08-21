@@ -1,0 +1,37 @@
+2025-08-15 18:50:34,075 :INFO : root :*************Test Page title started*******************
+2025-08-15 18:50:34,574 :INFO : root :*************Test Page title failed *******************
+2025-08-15 18:50:36,779 :INFO : root :*************Test login started*******************
+2025-08-15 18:50:37,536 :INFO : root :*************Entered ID*******************
+2025-08-15 18:50:37,617 :INFO : root :*************Entered password*******************
+2025-08-15 18:50:38,320 :INFO : root :*************Clicked Login*******************
+2025-08-15 18:50:38,352 :INFO : root :*************Login Passed*******************
+2025-08-16 18:39:34,653 :WARNING : selenium.webdriver.common.selenium_manager :Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_139_WINDOWS): error trying to connect: dns error: No such host is known. (os error 11001)
+2025-08-16 18:39:34,662 :WARNING : selenium.webdriver.common.selenium_manager :The msedgedriver version (138.0.3351.109) detected in PATH at C:\Users\deven\AppData\Local\Programs\Python\Python312\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (139.0.3405.86); currently, msedgedriver  is recommended for MicrosoftEdge 139.*, so it is advised to delete the driver in PATH and retry
+2025-08-16 18:39:37,672 :INFO : root :*************Test Page title started*******************
+2025-08-16 18:39:38,352 :INFO : root :*************Test Page title failed *******************
+2025-08-16 18:39:39,430 :WARNING : selenium.webdriver.common.selenium_manager :Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_139_WINDOWS): error trying to connect: dns error: No such host is known. (os error 11001)
+2025-08-16 18:39:39,430 :WARNING : selenium.webdriver.common.selenium_manager :The msedgedriver version (138.0.3351.109) detected in PATH at C:\Users\deven\AppData\Local\Programs\Python\Python312\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (139.0.3405.86); currently, msedgedriver  is recommended for MicrosoftEdge 139.*, so it is advised to delete the driver in PATH and retry
+2025-08-16 18:39:41,863 :INFO : root :*************Test login started*******************
+2025-08-16 18:39:42,557 :INFO : root :*************Entered ID*******************
+2025-08-16 18:39:42,671 :INFO : root :*************Entered password*******************
+2025-08-16 18:39:43,010 :INFO : root :*************Clicked Login*******************
+2025-08-16 18:52:11,697 :INFO : root :*************Test Page title started*******************
+2025-08-16 18:52:12,344 :INFO : root :*************Test Page title failed *******************
+2025-08-16 18:52:15,406 :INFO : root :*************Test login started*******************
+2025-08-16 18:52:16,467 :INFO : root :*************Entered ID*******************
+2025-08-16 18:52:16,572 :INFO : root :*************Entered password*******************
+2025-08-16 18:52:20,138 :INFO : root :*************Clicked Login*******************
+2025-08-16 18:57:21,638 :INFO : root :*************Test Page title started*******************
+2025-08-16 18:57:21,731 :INFO : root :*************Test login started*******************
+2025-08-16 18:57:22,494 :INFO : root :*************Test Page title failed *******************
+2025-08-16 18:57:22,947 :INFO : root :*************Entered ID*******************
+2025-08-16 18:57:23,075 :INFO : root :*************Entered password*******************
+2025-08-16 18:57:23,986 :INFO : root :*************Clicked Login*******************
+2025-08-21 01:30:23,064 :INFO : root :*************Test Page title started*******************
+2025-08-21 01:30:23,064 :INFO : root :*************Test Page title started*******************
+2025-08-21 01:30:23,118 :INFO : root :*************Test Page title passed*******************
+2025-08-21 01:30:23,118 :INFO : root :*************Test Page title passed*******************
+2025-08-21 01:32:53,694 :INFO : root :*************Test Page title started*******************
+2025-08-21 01:32:53,694 :INFO : root :*************Test Page title started*******************
+2025-08-21 01:32:53,704 :INFO : root :*************Test Page title passed*******************
+2025-08-21 01:32:53,704 :INFO : root :*************Test Page title passed*******************
